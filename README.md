@@ -6,7 +6,7 @@ Quête WCS routeur sous Linux
 *Toutes les machines comuniquent entre elles.*
 
 
-![Schema_GNS3](https://github.com/Hebus79/Routeur_linux/Images/GNS3-Validation_quete_routeur_IP_Linux-27-11-2024.png)
+![Schema_GNS3](https://github.com/Hebus79/Routeur_linux/blob/main/Images/GNS3-Validation_quete_routeur_IP_Linux-27-11-2024.png)
 
 
 
