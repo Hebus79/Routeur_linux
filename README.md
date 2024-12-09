@@ -1,6 +1,20 @@
 # Routeur_linux
 Quête WCS routeur sous Linux
 
+## Schéma du réseau sous GNS3
+
+*Toutes les machines comuniquent entre elles.*
+
+
+![Schema_GNS3](https://github.com/Hebus79/Routeur_linux/Images/GNS3-Validation_quete_routeur_IP_Linux-27-11-2024.png)
+
+
+
+## Adresse aléatoire IPV6
+
+IPv6 aléatoire : fd47:ce6b:fb82::1/64 obtenue via ce [site](https://www.unique-local-ipv6.com/#).
+
+
 ## Fichier de configuration du routeur0 dans /etc/network/interfaces
 
 
